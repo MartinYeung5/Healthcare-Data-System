@@ -5,7 +5,7 @@ The basic helath record information is not transparency, not mobile and not inte
 it is quite difficult to get your basic health record (at most 40 working days + extra payment) from public hospital/private clinic(maybe shorter time in private clinic)
 
 ### Reference: 
-(one real example - April 25, 2020) 
+(one real example - April 25, 2020) <br>
 https://www.ha.org.hk/haho/ho/cs/CMC_Medical_Report_Application_Rev_Jun_17_cht_txt.pdf
 <br>
 We don't have the platform to save our health record, if we go to the place and need to provide the realted health record, we will need to check again and spend time to record on paper.
