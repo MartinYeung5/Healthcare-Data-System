@@ -46,4 +46,13 @@ The ecosystem will offer the comprehensive data storage and usage of your health
 
 2. Only collect the health record, medicine info, and COVID-19 related information.
 
+## Limitation:
 it may not provide the absolutely accurate record from your self-check/ non-medical organization, we may know that the medical device may be have different results based on their quality, but it can provide the reference for doctor diagnosis or general usage.
+
+## Future Plan:
+The system will not only use in handling COVID-19, but also can use at different public health issues.
+Please feel free to contact me if you have interest in this project. Welcome student/experts to join it and contribute.
+
+## Contact:
+1. My email: martin.yeung88@hotmail.com 
+2. My Linkedin: https://www.linkedin.com/in/martin-yeung-b54484157/
