@@ -14,7 +14,8 @@ if we go to the place and need to provide the realted health record, we will nee
 We believe information transparency is essential to tackling the covid pandemic, and to increase the resilience of our healthcare system to future outbreak responses.
 
 ## Solution:
-We will develop the platform for public between stakeholders: public hospitals/clinics, private practitioners, immigration department, old age homes/hostels, CHP, transportation companies in order to store the basic health record.
+* Develop the platform for public between stakeholders: public hospitals/clinics, private practitioners, immigration department, old age homes/hostels, CHP, transportation companies in order to store the basic health record.
+* Aim to create a system that enables individual private practitioners make decisions in real time relating to viral diagnostics and management, through strengthening information flow from the public sector to the private sector in terms of protocols and clinical best practices.
 
 ## Luanch location:
 Hong Kong
