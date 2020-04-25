@@ -41,5 +41,9 @@ Hong Kong
 2.3 Retrieve specific record. For example: The doctor can check the specific patient health record in the system when needs.
 The ecosystem will offer the comprehensive data storage and usage of your health record.
 
+## Privacy Issue:
+1. Don’t collect the sensitive information from people such as detailed address, ID card number, real name and so on
+
+2. Only collect the health record, medicine info, and COVID-19 related information.
 
 it may not provide the absolutely accurate record from your self-check/ non-medical organization, we may know that the medical device may be have different results based on their quality, but it can provide the reference for doctor diagnosis or general usage.
