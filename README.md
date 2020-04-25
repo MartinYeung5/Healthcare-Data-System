@@ -4,19 +4,20 @@ Current problem:
 The basic helath record information is not transparency, not mobile and not integrity.
 it is quite difficult to get your basic health record (at most 40 working days + extra payment) from public hospital/private clinic(maybe shorter time in private clinic)
 
-Reference: (one real example - April 25, 2020) 
+## Reference: (one real example - April 25, 2020) 
 https://www.ha.org.hk/haho/ho/cs/CMC_Medical_Report_Application_Rev_Jun_17_cht_txt.pdf
+<br>
 We don't have the platform to save our health record, if we go to the place and need to provide the realted health record, we will need to check again and spend time to record on paper.
 
 We believe information transparency is essential to tackling the covid pandemic, and to increase the resilience of our healthcare system to future outbreak responses.
 
-Solution:
+## Solution:
 We will develop the platform for public between stakeholders: public hospitals/clinics, private practitioners, immigration department, old age homes/hostels, CHP, transportation companies in order to store the basic health record.
 
-Luanch location:
+## Luanch location:
 Hong Kong
 
-Function:
+## Function:
 1.Input (data collection)
 1.1 People can make a record for their daily health condition such as body temperature, sick symptom, medicine usage and so on.
 1.2 Family doctor/Clinic/Hospital can update the people health information in the system when they have body check.
